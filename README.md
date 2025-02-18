@@ -1,5 +1,8 @@
-# 💫 Hello There! I'm Smit Virja
-I am working on cyber security and ethical hacking<br>I am looking for help in cybersecurity<br>I am currently learning about cyber security and ethical hacking <br>I have just completed the bca from sdj international collage and I am interested into cyber security and ethical hacking and in side I am also developer ,I am developing an android app and window based app.<br>
+# 💫 Hello! I'm Smit Virja  
+🔒 Cybersecurity & Ethical Hacking Enthusiast | 💻 Developer (Android & Windows Apps)  
+
+I am passionate about **cybersecurity and ethical hacking**, continuously learning and improving my skills in **penetration testing, network security, and secure development**.  
+I have recently completed my **BCA from SDJ International College** and am currently working on various projects related to **Android and Windows application development**.
 
 
 ## 🌐 Socials:
