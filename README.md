@@ -4,6 +4,9 @@
 I am passionate about **cybersecurity and ethical hacking**, continuously learning and improving my skills in **penetration testing, network security, and secure development**.  
 I have recently completed my **BCA from SDJ International College** and am currently working on various projects related to **Android and Windows application development**.
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=smitvirja" alt="Profile Views"/>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smit24x7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Smit-virja) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Smit4524) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18501284) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smitvirja24@gmail.com) 
